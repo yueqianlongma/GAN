@@ -19,7 +19,7 @@ loss：
 论文地址： https://arxiv.org/abs/1406.2661
 
 代码结果：
-	![image](https://github.com/yueqianlongma/GAN/img/GAN_Mnist.png)
+	![image](https://github.com/yueqianlongma/GAN/raw/master/img/GAN_Mnist.png)
 
 
 
@@ -39,4 +39,4 @@ DCGAN:论文地址：https://arxiv.org/abs/1511.06434
 	https://pan.baidu.com/s/14XPTghR1BsEa3K0oJPBhWw
 
 代码结果：
-	![image](https://github.com/yueqianlongma/GAN/img/GAN_Anime.png)
+	![image](https://github.com/yueqianlongma/GAN/raw/master/img/GAN_Anime.png)
